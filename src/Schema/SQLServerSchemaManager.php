@@ -140,6 +140,7 @@ SQL,
 
             case 'nvarchar':
                 if ($length === -1) {
+                    $dbType = 'text';
                     break;
                 }
 

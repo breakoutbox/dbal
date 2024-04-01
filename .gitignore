@@ -11,3 +11,4 @@ vendor/
 /.phpcs-cache
 /phpstan.neon
 /psalm.xml
+/.idea
